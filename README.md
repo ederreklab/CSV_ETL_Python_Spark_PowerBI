@@ -1,3 +1,5 @@
+![Sin título](https://github.com/user-attachments/assets/0dbdae31-171f-4bd8-8236-be1af4cd141e)
+
 ## Project Overview
 
 This project analyzes global earthquake data from the last 10 years using an end-to-end data pipeline.
@@ -57,4 +59,5 @@ The Power BI dashboard provides:
 - Apache Spark (PySpark)
 - Power BI
 - Pandas
+
 - Git & GitHub
